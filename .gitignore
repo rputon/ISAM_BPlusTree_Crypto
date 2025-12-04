@@ -1,2 +1,9 @@
 isam2.exe
 .vscode/tasks.json
+data/jewelryIndex.dat
+data/jewelryRegister.dat
+data/jewelryRegister.dat.crypt
+data/jewelryRegister.dat.huff
+data/orderHistory.dat
+data/orderHistory.dat.crypt
+data/orderIndex.dat
